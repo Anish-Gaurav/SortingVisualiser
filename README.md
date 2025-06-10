@@ -15,6 +15,9 @@ An interactive web-based tool to visualize popular sorting algorithms in action.
 - Step-by-step animation
 - Intuitive and user-friendly interface
 
+  ## App Link
+  https://bejewelled-gnome-09f02f.netlify.app/
+
  **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/sorting-algorithms-visualiser.git
