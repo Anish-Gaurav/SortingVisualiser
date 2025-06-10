@@ -10,7 +10,7 @@ An interactive web-based tool to visualize popular sorting algorithms in action.
   - Insertion Sort
   - Merge Sort
   - Quick Sort
-  - Heap Sort (if implemented)
+  
 - Adjustable array size and speed
 - Step-by-step animation
 - Intuitive and user-friendly interface
