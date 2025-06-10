@@ -2,7 +2,7 @@
 
 An interactive web-based tool to visualize popular sorting algorithms in action. Ideal for students, educators, and anyone interested in understanding how different sorting techniques work.
 
-## 🔍 Features
+##  Features
 
 - Visualize key sorting algorithms:
   - Bubble Sort
@@ -10,6 +10,7 @@ An interactive web-based tool to visualize popular sorting algorithms in action.
   - Insertion Sort
   - Merge Sort
   - Quick Sort
+  - Heap Sort
   
 - Adjustable array size and speed
 - Step-by-step animation
